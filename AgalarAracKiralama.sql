@@ -76,8 +76,8 @@ CREATE TABLE `kiralik_bilgileri` (
 --
 
 INSERT INTO `kiralik_bilgileri` (`id`, `alinan_ucret`, `alinma_tarihi`, `kullanici_id`, `musteri_ad`, `musteri_soyad`, `son_km`, `verilis_km`, `verilme_tarihi`) VALUES
-(1, 34, '2022-01-14', 1, 'kadir', 'yaren', 300, 3, '2021-12-11'),
-(2, 234, '2022-01-04', 1, 'kadir', '2342', 300, 234, '2022-01-01'),
+(1, 34, '2022-01-14', 1, 'Umut ', 'Akpolat', 300, 3, '2021-12-11'),
+(2, 234, '2022-01-04', 1, 'Kutay ', 'filibeli', 300, 234, '2022-01-01'),
 (3, 234, '2022-01-07', 1, '234', '234', 300, 45, '2022-01-01'),
 (4, 234, '2022-01-07', 1, '234', '234', 300, 45, '2022-01-01'),
 (5, 234, '2022-01-13', 1, '345', '345', 300, 345, '2022-01-02');
@@ -100,7 +100,7 @@ CREATE TABLE `kullanicilar` (
 --
 
 INSERT INTO `kullanicilar` (`id`, `kullanici_adi`, `kullanici_tipi`, `sifre`) VALUES
-(1, 'kadir', 'yonetici', '202cb962ac59075b964b07152d234b70');
+(1, 'Mahmut', 'yonetici', '202cb962ac59075b964b07152d234b70');
 
 -- --------------------------------------------------------
 
