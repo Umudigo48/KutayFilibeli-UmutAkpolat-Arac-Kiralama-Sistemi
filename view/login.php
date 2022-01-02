@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="../assets/index.css" />
     <link rel="stylesheet" href="../assets/login.css">
 
-    <title>Arac Kiralama</title>
+    <title>Agalar Arac Kiralama</title>
   </head>
   <body>
     <div class="container-fluid">

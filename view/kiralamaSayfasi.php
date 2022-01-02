@@ -42,7 +42,7 @@ kiralamaSayfasi($db);
     <link rel="stylesheet" href="index.css" />
     <link rel="stylesheet" href="login.css">
 
-    <title>Arac Kiralama</title>
+    <title>Agalar Arac Kiralama</title>
   </head>
   <body>
     <div class="container-fluid">

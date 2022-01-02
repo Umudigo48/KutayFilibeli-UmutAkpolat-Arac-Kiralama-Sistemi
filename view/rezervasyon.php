@@ -72,7 +72,7 @@ rezervasyon($db);
                 id="navbarTogglerDemo01"
               >
                 <a class="navbar-brand text-light" href="#"
-                  >Araç Kiralama Servisi</a
+                  > Agalar Araç Kiralama Servisi</a
                 >
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
